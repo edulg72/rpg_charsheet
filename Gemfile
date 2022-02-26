@@ -40,7 +40,7 @@ gem 'autoprefixer-rails'
 
 gem 'font-awesome-sass'
 
-gem 'nokogiri', '< 1.8.0'
+gem 'nokogiri', '< 1.14.0'
 gem 'rb-inotify', '< 0.10.0'
 gem 'sassc', '< 2.0'
 gem 'ruby_dep', '< 1.4.0'
